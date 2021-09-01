@@ -28,6 +28,7 @@ Initial runs crashed computer until size set to 300
 Filtered out images below min size 200 pixels
 
 All images were color with values for RGB.  For improved effectiveness of the model, the images will be converted to one dimension as grayscale.
+![image](https://user-images.githubusercontent.com/79801542/131737298-020d3c16-7c7b-4e09-bb73-59c5800bf573.png)
 
 
 
@@ -42,6 +43,9 @@ Read each file individually, and applied the following:
 •	Grayscale: all images changed from RGB to gray
 •	Normalize: all values normalized to 1 based on #/255
 
+![image](https://user-images.githubusercontent.com/79801542/131737346-4de4f37e-d909-4718-9187-1e2ef5dd259d.png)
+
+![image](https://user-images.githubusercontent.com/79801542/131737366-e1c00a5a-6ba0-43f2-8916-71c9a5aecf96.png)
 
 
 
@@ -75,6 +79,7 @@ Three different Models applied:
 M1: 1 layer (simple)
 M2: 2 layer ( typical approach in complexity)
 M3: 5 layer (added complexity to see if feature identification improvement)
+![image](https://user-images.githubusercontent.com/79801542/131737397-8d42b11a-dbe8-40d4-b2b0-e519511e8bf0.png)
 
  
 First model runs: Accuracy no better than 70% - (POOR)
