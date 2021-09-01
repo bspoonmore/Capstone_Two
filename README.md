@@ -3,13 +3,13 @@ Detecting Pneumonia in X-Ray images using Convolution Neural Networks
 By Bob Spoonmore
 Problem Statement
 How can images of infant chest X-Rays be viewed algorithmically such that Pneumonia can be detected from Normal conditions with a level of confidence above 90%?
+ 
  ![image](https://user-images.githubusercontent.com/79801542/131737028-ddcee13a-2f1a-4469-bf62-99941710c041.png)
-    
-Normal			
+  Normal			
 
 ![image](https://user-images.githubusercontent.com/79801542/131737084-b9e5fadd-dfe7-4e54-9ccf-8333b6cb1654.png)
-
-Pneumonia
+  Pneumonia
+  
 A Deep Learning algorithm of Convolution Neural Networks will be applied to images of pediatric X-Rays separated into Pneumonia and Normal labeled groups to determine if images can predict results based on training a supervised image model
  
 
